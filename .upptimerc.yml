@@ -13,23 +13,21 @@ sites:
     url: https://murty.au/health
     icon: https://murty.au/favicon.ico
     assignees:
-          - bcm-works
+      - bcm-works
 
 status-website:
   theme: dark
   cname: status.bcm.works
   logoUrl: https://bcm.works/images/logos/android-chrome-192x192.png
   favicon: https://bcm.works/favicon.ico
-  name: Status
-  introTitle: Status of bcm websites
-  introMessage: Status page provided by [Upptime](https://github.com/upptime/upptime)
+  name: bcm.works
+  introTitle: Status
+  introMessage: Website availability summary
   navbar:
     - title: Status
       href: /
-    - title: Website
+    - title: bcm.works
       href: https://bcm.works
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
