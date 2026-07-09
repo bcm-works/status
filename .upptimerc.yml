@@ -23,11 +23,15 @@ status-website:
   name: bcm.works
   introTitle: Status
   introMessage: Website availability summary
+  css: "body { background-color: #000; }"
   navbar:
     - title: Status
       href: /
     - title: bcm.works
       href: https://bcm.works
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
