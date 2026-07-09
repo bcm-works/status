@@ -21,11 +21,13 @@ status-website:
   logoUrl: https://bcm.works/images/logos/android-chrome-192x192.png
   favicon: https://bcm.works/favicon.ico
   name: Status
-  introTitle: "Status of bcm websites."
+  introTitle: Status of bcm websites
   introMessage: Status page provided by [Upptime](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://bcm.works
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
