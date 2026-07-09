@@ -17,7 +17,7 @@ sites:
 
 status-website:
   theme: dark
-  baseUrl: /status
+  cname: status.bcm.works
   logoUrl: https://bcm.works/images/logos/android-chrome-192x192.png
   favicon: https://bcm.works/favicon.ico
   name: Status
@@ -38,7 +38,7 @@ skipHomepageUpdate: true
 user-agent: bcm-works
 
 commitMessages:
-  commitAuthorName: "Uptime Bot"
+  commitAuthorName: "bot-uptime"
   commitAuthorEmail: "brendan+bot-uptime@bcm.works"
   readmeContent: "Update summary in docs"
   summaryJson: "Update status summary"
