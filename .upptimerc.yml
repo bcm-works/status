@@ -16,19 +16,19 @@ sites:
       - bcm-works
 
 status-website:
-  theme: dark
-  cname: status.bcm.works
-  logoUrl: https://bcm.works/images/logos/android-chrome-192x192.png
-  favicon: https://bcm.works/favicon.ico
   name: bcm.works
+  cname: status.bcm.works
   introTitle: Status
   introMessage: Website availability summary
-  css: "body { background-color: #000; }"
+  logoUrl: https://bcm.works/images/logos/android-chrome-192x192.png
+  favicon: https://bcm.works/favicon.ico
+  theme: dark
+  css: ":root { --body-background-color: #000; --nav-border-bottom-color: transparent; }"
   navbar:
-    - title: Status
-      href: /
     - title: bcm.works
-      href: https://bcm.works
+      href: https://bcm.works/
+    - title: murty.au
+      href: https://murty.au/
   metaTags:
     - name: "robots"
       content: "noindex"
@@ -40,8 +40,8 @@ skipHomepageUpdate: true
 user-agent: bcm-works
 
 commitMessages:
-  commitAuthorName: "bot-uptime"
-  commitAuthorEmail: "brendan+bot-uptime@bcm.works"
+  commitAuthorName: "Status Bot"
+  commitAuthorEmail: "github@bcm.works"
   readmeContent: "Update summary in docs"
   summaryJson: "Update status summary"
   statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
