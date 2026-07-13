@@ -16,7 +16,7 @@ sites:
       - bcm-works
 
 status-website:
-  name: bcm.works
+  name: Status
   cname: status.bcm.works
   introTitle: Status
   introMessage: Website availability summary
