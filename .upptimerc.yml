@@ -5,12 +5,12 @@ repo: status
 
 sites:
   - name: bcm.works
-    url: https://bcm.works/health
+    url: https://bcm.works/api/health
     icon: https://bcm.works/favicon.ico
     assignees:
       - bcm-works
   - name: murty.au
-    url: https://murty.au/health
+    url: https://murty.au/api/health
     icon: https://murty.au/favicon.ico
     assignees:
       - bcm-works
