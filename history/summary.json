@@ -1,7 +1,7 @@
 [
   {
     "name": "bcm.works",
-    "url": "https://bcm.works/health",
+    "url": "https://bcm.works/api/health",
     "icon": "https://bcm.works/favicon.ico",
     "slug": "bcm-works",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 938,
-    "timeWeek": 779,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "time": 745,
+    "timeDay": 652,
+    "timeWeek": 775,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {}
   },
   {
     "name": "murty.au",
-    "url": "https://murty.au/health",
+    "url": "https://murty.au/api/health",
     "icon": "https://murty.au/favicon.ico",
     "slug": "murty-au",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 936,
-    "timeWeek": 595,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "time": 533,
+    "timeDay": 702,
+    "timeWeek": 591,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   }
 ]
