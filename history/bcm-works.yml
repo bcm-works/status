@@ -1,7 +1,7 @@
-url: https://bcm.works/health
+url: https://bcm.works/api/health
 status: up
 code: 200
-responseTime: 938
-lastUpdated: 2026-07-23T23:17:14.348Z
+responseTime: 366
+lastUpdated: 2026-07-24T04:40:16.300Z
 startTime: 2026-07-09T12:33:41.860Z
 generator: Upptime <https://github.com/upptime/upptime>
