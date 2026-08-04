@@ -9,11 +9,6 @@ sites:
     icon: https://bcm.works/favicon.ico
     assignees:
       - bcm-works
-  - name: murty.au
-    url: https://murty.au/api/health
-    icon: https://murty.au/favicon.ico
-    assignees:
-      - bcm-works
 
 status-website:
   name: Status
@@ -27,8 +22,6 @@ status-website:
   navbar:
     - title: bcm.works
       href: https://bcm.works/
-    - title: murty.au
-      href: https://murty.au/
   metaTags:
     - name: "robots"
       content: "noindex"
