@@ -4,17 +4,17 @@
     "url": "https://bcm.works/api/health",
     "icon": "https://bcm.works/favicon.ico",
     "slug": "bcm-works",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 781,
-    "timeWeek": 831,
-    "timeMonth": 795,
-    "timeYear": 732,
+    "time": 725,
+    "timeDay": 518,
+    "timeWeek": 759,
+    "timeMonth": 778,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   }
 ]
